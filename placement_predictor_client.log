@@ -1,0 +1,4 @@
+2025-03-09 17:48:34,640 - PlacementPredictorClient - ERROR - Server health check failed: 403 Client Error: Forbidden for url: http://localhost:5000/health
+2025-03-09 17:49:17,903 - PlacementPredictorClient - ERROR - Server health check failed: 403 Client Error: Forbidden for url: http://localhost:5000/health
+2025-03-09 18:07:19,634 - PlacementPredictorClient - ERROR - Failed to evaluate custom solution: 403 Client Error: Forbidden for url: http://localhost:5000/evaluate_custom
+2025-03-09 18:07:19,635 - PlacementPredictorClient - INFO - Using local evaluation as fallback
