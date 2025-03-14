@@ -1,0 +1,1494 @@
+2025-03-14 17:30:40,610 - INFO - __main__ - Starting LeetCode scraper
+2025-03-14 17:30:40,614 - INFO - __main__ - Starting HackerRank scraper
+2025-03-14 17:30:54,668 - INFO - __main__ - Scraper interrupted by user
+2025-03-14 17:30:54,670 - INFO - __main__ - Successfully exported data from database
+2025-03-14 17:30:54,670 - INFO - __main__ - Successfully saved results to output/company_problems_20250314_173054.json
+2025-03-14 17:37:14,699 - INFO - root - Proxy - Loading proxy configuration
+2025-03-14 17:37:14,699 - INFO - root - Proxy - Loading proxy configuration
+2025-03-14 17:37:14,699 - INFO - root - Proxy - Loading proxy configuration
+2025-03-14 17:37:14,699 - INFO - root - Proxy - Loaded 1 proxies
+2025-03-14 17:37:14,699 - INFO - root - Proxy - Loaded 1 proxies
+2025-03-14 17:37:14,699 - INFO - root - Proxy - Loaded 1 proxies
+2025-03-14 17:37:14,700 - INFO - root - Database - Initializing database at company_problems.db
+2025-03-14 17:37:14,700 - INFO - root - Database - Initializing database at company_problems.db
+2025-03-14 17:37:14,700 - INFO - root - Database - Initializing database at company_problems.db
+2025-03-14 17:37:14,700 - INFO - root - Database - Initializing database at company_problems.db
+2025-03-14 17:37:14,705 - INFO - root - Database - Database initialized successfully
+2025-03-14 17:37:14,705 - INFO - root - Database - Database initialized successfully
+2025-03-14 17:37:14,705 - INFO - root - Database - Database initialized successfully
+2025-03-14 17:37:14,705 - INFO - root - Database - Database initialized successfully
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Starting company problems scraper
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Starting company problems scraper
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Starting company problems scraper
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Starting company problems scraper
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Starting company problems scraper
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting scraping process[0m
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting scraping process[0m
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting scraping process[0m
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting scraping process[0m
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting scraping process[0m
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Launching scrapers for all websites
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Launching scrapers for all websites
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Launching scrapers for all websites
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Launching scrapers for all websites
+2025-03-14 17:37:14,705 - INFO - root - Scraper - Launching scrapers for all websites
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting LeetCode scraper[0m
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting LeetCode scraper[0m
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting LeetCode scraper[0m
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting LeetCode scraper[0m
+2025-03-14 17:37:14,705 - INFO - root - Scraper - [35mStarting LeetCode scraper[0m
+2025-03-14 17:37:14,706 - INFO - root - Scraper - Fetching list of companies from LeetCode
+2025-03-14 17:37:14,706 - INFO - root - Scraper - Fetching list of companies from LeetCode
+2025-03-14 17:37:14,706 - INFO - root - Scraper - Fetching list of companies from LeetCode
+2025-03-14 17:37:14,706 - INFO - root - Scraper - Fetching list of companies from LeetCode
+2025-03-14 17:37:14,706 - INFO - root - Scraper - Fetching list of companies from LeetCode
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Initializing HTTP session
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Initializing HTTP session
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Initializing HTTP session
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Initializing HTTP session
+2025-03-14 17:37:14,708 - INFO - root - Scraper - Initializing HTTP session
+2025-03-14 17:37:14,709 - INFO - root - Scraper - HTTP session initialized
+2025-03-14 17:37:14,709 - INFO - root - Scraper - HTTP session initialized
+2025-03-14 17:37:14,709 - INFO - root - Scraper - HTTP session initialized
+2025-03-14 17:37:14,709 - INFO - root - Scraper - HTTP session initialized
+2025-03-14 17:37:14,709 - INFO - root - Scraper - HTTP session initialized
+2025-03-14 17:37:14,709 - INFO - root - Scraper - [35mStarting HackerRank scraper[0m
+2025-03-14 17:37:14,709 - INFO - root - Scraper - [35mStarting HackerRank scraper[0m
+2025-03-14 17:37:14,709 - INFO - root - Scraper - [35mStarting HackerRank scraper[0m
+2025-03-14 17:37:14,709 - INFO - root - Scraper - [35mStarting HackerRank scraper[0m
+2025-03-14 17:37:14,709 - INFO - root - Scraper - [35mStarting HackerRank scraper[0m
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching list of companies from HackerRank
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching list of companies from HackerRank
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching list of companies from HackerRank
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching list of companies from HackerRank
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching list of companies from HackerRank
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:14,709 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:14,709 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:14,709 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:14,709 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:14,709 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:14,709 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:24,583 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:37:24,583 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:37:24,583 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:37:24,583 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:37:24,583 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:37:28,365 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:37:28,365 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:37:28,365 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:37:28,365 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:37:28,365 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:37:58,714 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:37:58,714 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:37:58,714 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:37:58,714 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:37:58,714 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:37:58,717 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:37:58,717 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:37:58,717 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:37:58,717 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:37:58,717 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:37:58,822 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:37:58,822 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:37:58,822 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:37:58,822 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:37:58,822 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:37:58,822 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:37:58,822 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:37:58,822 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:37:58,822 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:37:58,822 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105425804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010541dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104f71ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000104fb91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000104ffa678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000104fad35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x00000001053eacd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x00000001053edfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x00000001053cad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x00000001053ee800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001053bbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010540e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010540e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010541da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:37:59,298 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:59,298 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:59,298 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:59,298 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:59,298 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:37:59,298 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:59,298 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:59,298 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:59,298 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:59,298 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:37:59,990 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:37:59,990 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:37:59,990 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:37:59,990 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:37:59,990 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:38:03,139 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:38:03,139 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:38:03,139 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:38:03,139 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:38:03,139 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:38:33,521 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:38:33,521 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:38:33,521 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:38:33,521 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:38:33,521 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:38:33,523 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:38:33,523 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:38:33,523 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:38:33,523 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:38:33,523 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:38:33,625 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:38:33,625 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:38:33,625 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:38:33,625 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:38:33,625 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:38:33,625 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.6s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:38:33,625 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.6s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:38:33,625 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.6s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:38:33,625 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.6s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:38:33,625 - INFO - backoff - Backing off fetch_with_selenium(...) for 0.6s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102c31804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000102c29ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x000000010277dea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001027c51d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102806678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x00000001027b935c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000102bf6cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000102bf9fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000102bd6d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000102bfa800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000102bc7ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x0000000102c1a45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x0000000102c1a5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000102c29a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:38:34,186 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:38:34,186 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:38:34,186 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:38:34,186 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:38:34,186 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:38:34,186 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:38:34,186 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:38:34,186 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:38:34,186 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:38:34,186 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:38:34,686 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:38:34,686 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:38:34,686 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:38:34,686 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:38:34,686 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:38:37,624 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:38:37,624 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:38:37,624 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:38:37,624 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:38:37,624 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:07,941 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:07,941 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:07,941 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:07,941 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:07,941 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:07,944 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:07,944 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:07,944 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:07,944 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:07,944 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:08,049 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:08,049 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:08,049 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:08,049 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:08,049 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:08,049 - INFO - backoff - Backing off fetch_with_selenium(...) for 1.8s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:08,049 - INFO - backoff - Backing off fetch_with_selenium(...) for 1.8s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:08,049 - INFO - backoff - Backing off fetch_with_selenium(...) for 1.8s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:08,049 - INFO - backoff - Backing off fetch_with_selenium(...) for 1.8s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:08,049 - INFO - backoff - Backing off fetch_with_selenium(...) for 1.8s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001049c5804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x00000001049bdddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000104511ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x00000001045591d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010459a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x000000010454d35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010498acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010498dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010496ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010498e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x000000010495bba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x00000001049ae45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001049ae5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x00000001049bda50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:09,860 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:09,860 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:09,860 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:09,860 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:09,860 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:09,861 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:09,861 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:09,861 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:09,861 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:09,861 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:10,369 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:10,369 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:10,369 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:10,369 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:10,369 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:13,705 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:13,705 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:13,705 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:13,705 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:13,705 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:44,071 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:44,071 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:44,071 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:44,071 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:44,071 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:39:44,072 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:44,072 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:44,072 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:44,072 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:44,072 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:39:44,172 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:44,172 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:44,172 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:44,172 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:44,172 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:39:44,172 - INFO - backoff - Backing off fetch_with_selenium(...) for 6.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:44,172 - INFO - backoff - Backing off fetch_with_selenium(...) for 6.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:44,172 - INFO - backoff - Backing off fetch_with_selenium(...) for 6.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:44,172 - INFO - backoff - Backing off fetch_with_selenium(...) for 6.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:44,172 - INFO - backoff - Backing off fetch_with_selenium(...) for 6.5s (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010338d804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x0000000103385ddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102ed9ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102f211d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x0000000102f62678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102f1535c cxxbridge1$string$len + 335796
+6   chromedriver                        0x0000000103352cd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x0000000103355fa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x0000000103332d04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x0000000103356800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x0000000103323ba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010337645c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x00000001033765e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x0000000103385a50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:39:50,705 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:50,705 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:50,705 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:50,705 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:50,705 - INFO - root - Scraper - Fetching URL with Selenium: https://www.hackerrank.com/work/tests
+2025-03-14 17:39:50,706 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:50,706 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:50,706 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:50,706 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:50,706 - INFO - root - Selenium - Initializing Chrome webdriver
+2025-03-14 17:39:51,238 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:51,238 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:51,238 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:51,238 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:51,238 - INFO - root - Selenium - Chrome webdriver initialized successfully
+2025-03-14 17:39:54,030 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:54,030 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:54,030 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:54,030 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:39:54,030 - INFO - root - Scraper - Waiting for selector: .company-card
+2025-03-14 17:40:24,352 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,352 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,352 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,352 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,352 - ERROR - root - Scraper - Selenium error fetching https://www.hackerrank.com/work/tests: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,354 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:40:24,354 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:40:24,354 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:40:24,354 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:40:24,354 - INFO - root - Selenium - Closing Chrome webdriver
+2025-03-14 17:40:24,467 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:40:24,467 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:40:24,467 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:40:24,467 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:40:24,467 - INFO - root - Selenium - Chrome webdriver closed successfully
+2025-03-14 17:40:24,468 - ERROR - backoff - Giving up fetch_with_selenium(...) after 5 tries (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:40:24,468 - ERROR - backoff - Giving up fetch_with_selenium(...) after 5 tries (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:40:24,468 - ERROR - backoff - Giving up fetch_with_selenium(...) after 5 tries (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:40:24,468 - ERROR - backoff - Giving up fetch_with_selenium(...) after 5 tries (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:40:24,468 - ERROR - backoff - Giving up fetch_with_selenium(...) after 5 tries (selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8)
+2025-03-14 17:40:24,468 - ERROR - root - Scraper - Error in HackerRank scraper: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,468 - ERROR - root - Scraper - Error in HackerRank scraper: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,468 - ERROR - root - Scraper - Error in HackerRank scraper: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,468 - ERROR - root - Scraper - Error in HackerRank scraper: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,468 - ERROR - root - Scraper - Error in HackerRank scraper: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103465804 cxxbridge1$str$ptr + 2785964
+1   chromedriver                        0x000000010345dddc cxxbridge1$str$ptr + 2754692
+2   chromedriver                        0x0000000102fb1ea8 cxxbridge1$string$len + 92928
+3   chromedriver                        0x0000000102ff91d0 cxxbridge1$string$len + 384552
+4   chromedriver                        0x000000010303a678 cxxbridge1$string$len + 651984
+5   chromedriver                        0x0000000102fed35c cxxbridge1$string$len + 335796
+6   chromedriver                        0x000000010342acd4 cxxbridge1$str$ptr + 2545532
+7   chromedriver                        0x000000010342dfa0 cxxbridge1$str$ptr + 2558536
+8   chromedriver                        0x000000010340ad04 cxxbridge1$str$ptr + 2414508
+9   chromedriver                        0x000000010342e800 cxxbridge1$str$ptr + 2560680
+10  chromedriver                        0x00000001033fbba0 cxxbridge1$str$ptr + 2352712
+11  chromedriver                        0x000000010344e45c cxxbridge1$str$ptr + 2690820
+12  chromedriver                        0x000000010344e5e4 cxxbridge1$str$ptr + 2691212
+13  chromedriver                        0x000000010345da50 cxxbridge1$str$ptr + 2753784
+14  libsystem_pthread.dylib             0x000000018a9f82e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a9f30fc thread_start + 8
+
+2025-03-14 17:40:24,469 - INFO - root - Scraper - [35mStarting InterviewBit scraper[0m
+2025-03-14 17:40:24,469 - INFO - root - Scraper - [35mStarting InterviewBit scraper[0m
+2025-03-14 17:40:24,469 - INFO - root - Scraper - [35mStarting InterviewBit scraper[0m
+2025-03-14 17:40:24,469 - INFO - root - Scraper - [35mStarting InterviewBit scraper[0m
+2025-03-14 17:40:24,469 - INFO - root - Scraper - [35mStarting InterviewBit scraper[0m
+2025-03-14 17:40:24,469 - INFO - root - Scraper - Fetching list of companies from InterviewBit
+2025-03-14 17:40:24,469 - INFO - root - Scraper - Fetching list of companies from InterviewBit
+2025-03-14 17:40:24,469 - INFO - root - Scraper - Fetching list of companies from InterviewBit
+2025-03-14 17:40:24,469 - INFO - root - Scraper - Fetching list of companies from InterviewBit
+2025-03-14 17:40:24,469 - INFO - root - Scraper - Fetching list of companies from InterviewBit
+2025-03-14 17:40:24,473 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:24,473 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:24,473 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:24,473 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:24,473 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:24,479 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 
+2025-03-14 17:40:24,479 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 
+2025-03-14 17:40:24,479 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 
+2025-03-14 17:40:24,479 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 
+2025-03-14 17:40:24,479 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 
+2025-03-14 17:40:24,480 - INFO - backoff - Backing off fetch_url(...) for 1.0s (asyncio.exceptions.TimeoutError)
+2025-03-14 17:40:24,480 - INFO - backoff - Backing off fetch_url(...) for 1.0s (asyncio.exceptions.TimeoutError)
+2025-03-14 17:40:24,480 - INFO - backoff - Backing off fetch_url(...) for 1.0s (asyncio.exceptions.TimeoutError)
+2025-03-14 17:40:24,480 - INFO - backoff - Backing off fetch_url(...) for 1.0s (asyncio.exceptions.TimeoutError)
+2025-03-14 17:40:24,480 - INFO - backoff - Backing off fetch_url(...) for 1.0s (asyncio.exceptions.TimeoutError)
+2025-03-14 17:40:24,995 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:24,995 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:24,995 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:24,995 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:24,995 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:24,995 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:24,995 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:24,995 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:24,995 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:24,995 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:25,450 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:25,450 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:25,450 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:25,450 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:25,450 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:25,528 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:25,528 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:25,528 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:25,528 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:25,528 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:25,528 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:25,528 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:25,528 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:25,528 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:25,528 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:25,962 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:25,962 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:25,962 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:25,962 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:25,962 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:26,337 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:26,337 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:26,337 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:26,337 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:26,337 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:26,337 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:26,337 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:26,337 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:26,337 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:26,337 - INFO - backoff - Backing off fetch_url(...) for 1.0s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:26,671 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:26,671 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:26,671 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:26,671 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:26,671 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:26,758 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:26,758 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:26,758 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:26,758 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:26,758 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:26,758 - INFO - backoff - Backing off fetch_url(...) for 3.0s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:26,758 - INFO - backoff - Backing off fetch_url(...) for 3.0s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:26,758 - INFO - backoff - Backing off fetch_url(...) for 3.0s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:26,758 - INFO - backoff - Backing off fetch_url(...) for 3.0s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:26,758 - INFO - backoff - Backing off fetch_url(...) for 3.0s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:27,324 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:27,324 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:27,324 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:27,324 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:27,324 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:27,836 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:27,836 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:27,836 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:27,836 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:27,836 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:27,837 - INFO - backoff - Backing off fetch_url(...) for 1.7s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:27,837 - INFO - backoff - Backing off fetch_url(...) for 1.7s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:27,837 - INFO - backoff - Backing off fetch_url(...) for 1.7s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:27,837 - INFO - backoff - Backing off fetch_url(...) for 1.7s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:27,837 - INFO - backoff - Backing off fetch_url(...) for 1.7s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:29,554 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:29,554 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:29,554 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:29,554 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:29,554 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:29,784 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:29,784 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:29,784 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:29,784 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:29,784 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:29,848 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:29,848 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:29,848 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:29,848 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:29,848 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:29,848 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:29,848 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:29,848 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:29,848 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:29,848 - INFO - backoff - Backing off fetch_url(...) for 1.1s (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:29,930 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:29,930 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:29,930 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:29,930 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:29,930 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:29,931 - INFO - backoff - Backing off fetch_url(...) for 3.9s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:29,931 - INFO - backoff - Backing off fetch_url(...) for 3.9s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:29,931 - INFO - backoff - Backing off fetch_url(...) for 3.9s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:29,931 - INFO - backoff - Backing off fetch_url(...) for 3.9s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:29,931 - INFO - backoff - Backing off fetch_url(...) for 3.9s (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:30,957 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:30,957 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:30,957 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:30,957 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:30,957 - INFO - root - Scraper - Fetching URL: https://leetcode.com/company/
+2025-03-14 17:40:30,998 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:30,998 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:30,998 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:30,998 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:30,998 - ERROR - root - Scraper - Error fetching https://leetcode.com/company/: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:30,998 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:30,998 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:30,998 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:30,998 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:30,998 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 403, message='Forbidden', url='https://leetcode.com/company/')
+2025-03-14 17:40:30,999 - ERROR - root - Scraper - Error in LeetCode scraper: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:30,999 - ERROR - root - Scraper - Error in LeetCode scraper: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:30,999 - ERROR - root - Scraper - Error in LeetCode scraper: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:30,999 - ERROR - root - Scraper - Error in LeetCode scraper: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:30,999 - ERROR - root - Scraper - Error in LeetCode scraper: 403, message='Forbidden', url='https://leetcode.com/company/'
+2025-03-14 17:40:33,882 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:33,882 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:33,882 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:33,882 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:33,882 - INFO - root - Scraper - Fetching URL: https://www.interviewbit.com/companies/
+2025-03-14 17:40:34,316 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,316 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,316 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,316 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,316 - ERROR - root - Scraper - Error fetching https://www.interviewbit.com/companies/: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,316 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:34,316 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:34,316 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:34,316 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:34,316 - ERROR - backoff - Giving up fetch_url(...) after 5 tries (aiohttp.client_exceptions.ClientResponseError: 404, message='Not Found', url='https://www.interviewbit.com/companies/')
+2025-03-14 17:40:34,317 - ERROR - root - Scraper - Error in InterviewBit scraper: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,317 - ERROR - root - Scraper - Error in InterviewBit scraper: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,317 - ERROR - root - Scraper - Error in InterviewBit scraper: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,317 - ERROR - root - Scraper - Error in InterviewBit scraper: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,317 - ERROR - root - Scraper - Error in InterviewBit scraper: 404, message='Not Found', url='https://www.interviewbit.com/companies/'
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting all data from database
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting all data from database
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting all data from database
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting all data from database
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting all data from database
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting data from database to memory
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting data from database to memory
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting data from database to memory
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting data from database to memory
+2025-03-14 17:40:34,317 - INFO - root - Scraper - Exporting data from database to memory
+2025-03-14 17:40:34,876 - INFO - root - Database - Retrieving companies for leetcode.com
+2025-03-14 17:40:34,876 - INFO - root - Database - Retrieving companies for leetcode.com
+2025-03-14 17:40:34,876 - INFO - root - Database - Retrieving companies for leetcode.com
+2025-03-14 17:40:34,876 - INFO - root - Database - Retrieving companies for leetcode.com
+2025-03-14 17:40:34,876 - INFO - root - Database - Retrieving companies for leetcode.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for leetcode.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for leetcode.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for leetcode.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for leetcode.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for leetcode.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Retrieving companies for hackerrank.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Retrieving companies for hackerrank.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Retrieving companies for hackerrank.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Retrieving companies for hackerrank.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Retrieving companies for hackerrank.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for hackerrank.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for hackerrank.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for hackerrank.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for hackerrank.com
+2025-03-14 17:40:34,882 - INFO - root - Database - Found 0 companies for hackerrank.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Retrieving companies for interviewbit.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Retrieving companies for interviewbit.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Retrieving companies for interviewbit.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Retrieving companies for interviewbit.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Retrieving companies for interviewbit.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Found 0 companies for interviewbit.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Found 0 companies for interviewbit.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Found 0 companies for interviewbit.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Found 0 companies for interviewbit.com
+2025-03-14 17:40:34,883 - INFO - root - Database - Found 0 companies for interviewbit.com
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully exported data from database
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully exported data from database
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully exported data from database
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully exported data from database
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully exported data from database
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving final results
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving final results
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving final results
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving final results
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving final results
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving results to JSON file: output/company_problems_20250314_174034.json
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving results to JSON file: output/company_problems_20250314_174034.json
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving results to JSON file: output/company_problems_20250314_174034.json
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving results to JSON file: output/company_problems_20250314_174034.json
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Saving results to JSON file: output/company_problems_20250314_174034.json
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully saved results to [32moutput/company_problems_20250314_174034.json[0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully saved results to [32moutput/company_problems_20250314_174034.json[0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully saved results to [32moutput/company_problems_20250314_174034.json[0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully saved results to [32moutput/company_problems_20250314_174034.json[0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Successfully saved results to [32moutput/company_problems_20250314_174034.json[0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - [32m[1mScraping completed successfully![0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - [32m[1mScraping completed successfully![0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - [32m[1mScraping completed successfully![0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - [32m[1mScraping completed successfully![0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - [32m[1mScraping completed successfully![0m
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Cleaning up resources
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Cleaning up resources
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Cleaning up resources
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Cleaning up resources
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Cleaning up resources
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Closing HTTP session
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Closing HTTP session
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Closing HTTP session
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Closing HTTP session
+2025-03-14 17:40:34,884 - INFO - root - Scraper - Closing HTTP session
+2025-03-14 17:40:34,885 - INFO - root - Scraper - HTTP session closed
+2025-03-14 17:40:34,885 - INFO - root - Scraper - HTTP session closed
+2025-03-14 17:40:34,885 - INFO - root - Scraper - HTTP session closed
+2025-03-14 17:40:34,885 - INFO - root - Scraper - HTTP session closed
+2025-03-14 17:40:34,885 - INFO - root - Scraper - HTTP session closed
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
+2025-03-14 17:40:34,885 - INFO - root - Scraper - Closing Selenium manager
